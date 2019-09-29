@@ -1,0 +1,46 @@
+.jumbotron {
+  background-color: #5700C0;
+}
+
+h1, h2 {
+  font-family: 'Black Han Sans', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 2rem;
+  color: #5700C0;
+}
+
+.border {
+  border-width: 10px !important;
+  border-color: #5700C0 !important;
+}
+
+.card-title {
+  font-family: 'Black Han Sans', sans-serif;
+  text-align: center;
+  margin: 2rem;
+  font-size: 5rem;
+  color: #5700C0;
+}
+
+#card1 {
+  background-color: #FDFF00;
+}
+
+#card2 {
+  background-color: #00FFD3;
+}
+
+#card3 {
+  background-color: #9AFF00;
+}
