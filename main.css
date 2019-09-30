@@ -33,14 +33,14 @@ h2 {
   color: #5700C0;
 }
 
-#card1 {
+.c-1 {
   background-color: #FDFF00;
 }
 
-#card2 {
+.c-2 {
   background-color: #00FFD3;
 }
 
-#card3 {
+.c-3 {
   background-color: #9AFF00;
 }
