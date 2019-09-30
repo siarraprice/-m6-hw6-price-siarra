@@ -76,10 +76,17 @@ cardHover3.addEventListener("mouseout", function () {
 
 
 //add button after click
-var cardClick1 = document.getElementById("card1")
-var cardClick1 = document.getElementById("card2");
-var cardClick1 = document.getElementById("card3");
 
-cardClick1.addEventListener("onclick", function () {
-  document.getElementById("btn").style.display = visible;
-});
+
+
+//var cardClick1 = document.getElementById("card1")
+//var cardClick1 = document.getElementById("card2");
+//var cardClick1 = document.getElementById("card3");
+
+//cardClick1.addEventListener("onopen", function () {
+//  document.getElementById("btn").style.display = hidden;
+// });
+
+//cardClick1.addEventListener("onclick", function () {
+//  document.getElementById("btn").style.display = visible;
+//});
