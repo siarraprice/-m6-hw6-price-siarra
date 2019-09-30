@@ -44,3 +44,20 @@ h2 {
 .c-3 {
   background-color: #9AFF00;
 }
+
+.btn {
+  font-family: 'Black Han Sans', sans-serif;
+  text-transform: uppercase;
+  background-color: #5700C0;
+  margin: 0 auto;
+  visibility: hidden;
+}
+
+.btn a {
+  color: white;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #E4DAEF;
+}

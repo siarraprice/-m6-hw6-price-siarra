@@ -72,3 +72,14 @@ cardHover3.addEventListener("mouseout", function () {
   cardHover2.style.backgroundColor = "#00FFD3";
   cardHover3.style.backgroundColor = "#9AFF00";
 }, false);
+
+
+
+//add button after click
+var cardClick1 = document.getElementById("card1")
+var cardClick1 = document.getElementById("card2");
+var cardClick1 = document.getElementById("card3");
+
+cardClick1.addEventListener("onclick", function () {
+  document.getElementById("btn").style.display = visible;
+});
